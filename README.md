@@ -1,4 +1,6 @@
-# Kaggle-
+
+<P>
+<IMG src='https://www.kaggle.com/static/images/site-logo.png' height=20% width=20%> <P>
 
 ## Competition log
 
