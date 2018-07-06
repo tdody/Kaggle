@@ -2,10 +2,8 @@
 <P>
 <IMG src='https://www.kaggle.com/static/images/site-logo.png' height=20% width=20%> <P>
 
-## Competition log
+## Project log
 
 - Titanic: Titanic: Machine Learning from Disaster
 	- [Dataset](https://www.kaggle.com/c/titanic)
-	- Algorithm: Random Forest
-	- Matching: 0.80861
-	- Date:08/26/2017
+	- Algorithm: Several classifiers for comparison purpose
