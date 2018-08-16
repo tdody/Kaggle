@@ -9,3 +9,4 @@
 |![Image description](./Digits/Thumb3.png) | - Title: Handwritten digits recognition <br/>- [Dataset](https://www.kaggle.com/c/digit-recognizer)<br/> - Algorithm: Neural Network, Tensorflow, Keras, CNN
 |<img src="./Housing/images/Thumb.png" width="128"> | - Title: Real Estate <br/>- [Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)<br/> - Algorithm: Various Regressions
 |<img src="./Iris/thumb.jpg" width="128"> | - Title: Iris Species <br/>- [Dataset](https://www.kaggle.com/uciml/iris)<br/> - Algorithm: Various Classifiers
+|<img src="./Forests/images/thumb.jpg" width="128"> | - Title: Forest Cover Type <br/>- [Dataset](https://www.kaggle.com/c/forest-cover-type-kernels-only)<br/> - Algorithm: Various Classifiers
