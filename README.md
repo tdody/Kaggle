@@ -10,3 +10,4 @@
 |<img src="./Housing/images/Thumb.png" width="128"> | - Title: Real Estate <br/>- [Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)<br/> - Algorithm: Various Regressions
 |<img src="./Iris/thumb.jpg" width="128"> | - Title: Iris Species <br/>- [Dataset](https://www.kaggle.com/uciml/iris)<br/> - Algorithm: Various Classifiers
 |<img src="./Forests/images/thumb.jpg" width="128"> | - Title: Forest Cover Type <br/>- [Dataset](https://www.kaggle.com/c/forest-cover-type-kernels-only)<br/> - Algorithm: Various Classifiers
+|<img src="./Credit Card Fraud/Card.jpg" width="128"> | - Title: Credit Card Fraud <br/>- [Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)<br/> - Algorithm: Various Classifiers
